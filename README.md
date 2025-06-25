@@ -1,10 +1,8 @@
-# StoryScrib
+![StoryScrib Logo](https://storyscrib.ai/images/MediumLogo.png) # StoryScrib 
 
 **AI-Powered Writing Companion for Scrivener**
 
 StoryScrib is a desktop application that enhances your creative writing workflow by providing AI-powered text enhancement, expansion, and editing tools designed to work seamlessly alongside Scrivener.
-
-![StoryScrib Interface](assets/MainLogo.png)
 
 ## ✨ Features
 
@@ -54,12 +52,11 @@ Built-in cost tracking helps you monitor your Claude API usage with session and 
 
 - **macOS** 10.15 or later
 - **Claude API Key** from Anthropic
-- **Scrivener**
+- **Scrivener** (recommended but not required)
 
 ## 📝 Not Affiliated
 
 *This app is not affiliated with, endorsed by, or associated with Literature & Latte Ltd or Scrivener. Scrivener is a trademark of Literature & Latte Ltd.*
-*This app is not affiliated with, endorsed by, or associated with Anthropic or Claude Ai. ClaudenAi is a trademark of Anthropic.*
 
 ## 🔄 Updates
 
