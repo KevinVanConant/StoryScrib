@@ -2,7 +2,7 @@
 
 **AI-Powered Writing Companion for Scrivener**
 
-StoryScrib is a desktop application that enhances your creative writing workflow by providing AI-powered text enhancement, expansion, and editing tools designed to work seamlessly alongside Scrivener.
+StoryScrib is a desktop application that enhances your creative writing workflow by providing AI-powered text enhancement, expansion, and editing tools while staying on track with your story, designed to work seamlessly alongside Scrivener. 
 
 ## ✨ Features
 
