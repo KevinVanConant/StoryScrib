@@ -42,7 +42,6 @@ StoryScrib is a desktop application that enhances your creative writing workflow
 - **Your API Key** - Stored locally and encrypted
 - **Your Writing** - Never stored or transmitted except to Claude API
 - **No Tracking** - No analytics or data collection
-- **Offline Ready** - Works without internet (except for AI processing)
 
 ## 💰 Cost Tracking
 
