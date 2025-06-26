@@ -32,7 +32,7 @@ StoryScrib is a desktop application that enhances your creative writing workflow
 
 ## 💡 How It Works
 
-1. Select text in Scrivener and copy it
+1. Select text in Scrivener
 2. Choose an enhancement option in StoryScrib
 3. Review the AI-enhanced version
 4. Replace or insert the improved text back into Scrivener
